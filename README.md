@@ -1,4 +1,4 @@
-# App Tarjeta de Crédito
+# App Presupuesto
 
 Ingresa un presupuesto inicial y añade gastos para su posterior lectura. Te avisará cuando hayas gastado el 50% y el 75% del presupuesto inicial. No te permitirá gastar más del presupuesto inicial.
 
