@@ -9,7 +9,7 @@ Ingresa un presupuesto inicial y añade gastos para su posterior lectura. Te avi
 
 ## Enlaces
 
-Link al Live: <a href="https://app-tarjeta-credito.vercel.app/" target="_blank">https://app-tarjeta-credito.vercel.app/</a>
+Link al Live: <a href="https://budget-app-angular-omega.vercel.app/ingresarPresupuesto" target="_blank">https://budget-app-angular-omega.vercel.app/ingresarPresupuesto</a>
 
 ## Imágenes de la App
 
