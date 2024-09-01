@@ -9,7 +9,7 @@ Ingresa un presupuesto inicial y añade gastos para su posterior lectura. Te avi
 
 ## Enlaces
 
-Link al Live: <a href="https://budget-app-angular-rubpri-64jwlq767-rubpris-projects.vercel.app/ingresarPresupuesto" target="_blank">https://budget-app-angular-rubpri-64jwlq767-rubpris-projects.vercel.app/ingresarPresupuesto</a>
+Link al Live: <a href="https://app-tarjeta-credito.vercel.app/" target="_blank">https://app-tarjeta-credito.vercel.app/</a>
 
 ## Imágenes de la App
 
